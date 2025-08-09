@@ -63,7 +63,7 @@ file (i.e. the right side with the `sofle_right-nice_nano_v2-zmk.uf2` file), you
 2. Flash the right side of the keyboard, unplug the USB-C cable, and set it aside.
 3. Flash the left side of the keyboard, leaving it plugged in after.
 4. Turn on the right side of the keyboard. You should see the screen on the Nice!Nano microcontroller light up and display a checkmark next to the wifi icon if the sides have connected.
-5. Open you favorite text editor and test the keyboard.
+5. Open your favorite text editor and test the keyboard.
 
 #### Flashing the firmware
 
