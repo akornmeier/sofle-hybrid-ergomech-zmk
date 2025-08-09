@@ -6,7 +6,7 @@ We have created several versions of pcb for this keyboard since it first started
 
 The sofle Hybrid now can work with zmk studio.
 Here is how you can use it: visit https://zmk.studio/ using Edge or Chrome.
-Locate the `studio_unlock` button (in this case, it's on the top left conner of the `lower` layer, you can see the keymap below to see it).
+Locate the `studio_unlock` button (in this case, it's on the top left corner of the `lower` layer, you can see the keymap below to see it).
 Press that and you can now remap the keyboard live without having to reflash the keyboard. Note that you will need to plug the usb cable while changing the keymap, it's not working over bluetooth.
 
 # Sofle Hybrid Keyboard Guide
