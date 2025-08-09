@@ -1,6 +1,6 @@
 # Rev 5 announcement:
 
-We have created several version of pcb for this keyboard since it first started, but most of them are incremental changes and nothing breaks, but since May of 2025, we ship all of our Sofle hybrid keyboards with the rev5, this mark the end of the EVQ roller encoder and introducing the Roller encoder of our own. Due to this breaking changes, we update the repo and now the branch name `master` are for the old pcb and the `sofle_hybrid_rgb_rev5` is for the rev5 pcb.
+We have created several versions of pcb for this keyboard since it first started, but most of them are incremental changes and nothing breaks. However, since May of 2025, we ship all of our Sofle hybrid keyboards with the rev5; this marks the end of the EVQ roller encoder and introduces the Roller encoder of our own. Due to these breaking changes, we updated the repo and now the branch name `master` is for the old pcb and the `sofle_hybrid_rgb_rev5` is for the rev5 pcb.
 
 # The Sofle hybrid is now fully supported by ZMK Studio
 
